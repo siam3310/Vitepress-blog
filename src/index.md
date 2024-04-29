@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: 'My Awesome Project'
-  text: 'A VitePress Site'
-  tagline: My great project tagline
+  name: 'CineBuzZ BD'
+  text: 'Entertainment perpose only.'
   actions:
     - theme: brand
       text: Markdown Examples
